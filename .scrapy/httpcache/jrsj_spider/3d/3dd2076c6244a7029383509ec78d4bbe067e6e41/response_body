@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>揭秘"一元木马":点链接支付一元 银行卡少几万块_财经频道_华讯财经</title>
+<meta name="keywords" content="支付平台,木马程序,支付宝,犯罪嫌疑人,一元木马" />
+<meta name="description" content="近日，杭州余杭警方通过在警务大数据领域与阿里巴巴安全部合作，侦破了一个以低价购买游戏装备为诱饵，针对游戏爱好者实施诈骗的新型网络犯罪团伙，在19个省52个地市抓获犯罪嫌疑人68名，一条围绕“一元木马”开展的诈骗产业链被连根拔起。“一元木马”控制电脑转多少钱骗子说了算4月30日下午，周末在家休息的杭州余杭人小" />
+<link rel="stylesheet" type="text/css" href="http://money.591hx.com/style/cotent.css"/>
+<script language="JavaScript">
+document.domain = "591hx.com"; //指定 document 所属的域
+</script> 
+</head>
+<body>
+<div id="header1">
+<ul class="entry1">
+    <li class="width50"><a target="_blank" href="http://www.591hx.com/"><img width="16" alt="" src="http://finance.591hx.com/favicon.ico" /> 华讯财经首页 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/">股票 | </a></li>
+    <li class="width20"><a target="_blank" href="http://finance.591hx.com/">财经 | </a></li>
+    <li class="width20"><a target="_blank" href="http://money.591hx.com/">理财 | </a></li>
+    <li class="width20"><a target="_blank" href="http://fs.591hx.com/">学院 | </a></li>
+    <li class="width20"><a target="_blank" href="http://quote.591hx.com/">行情 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/dapan.shtml">大盘 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/gegu.shtml">个股 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/zl.shtml">主力 | </a></li>
+    <li class="width20"><a target="_blank" href="http://fund.591hx.com/">基金 | </a></li>
+    <li class="width30"><a target="_blank" href="http://club.591hx.com/live/online_1.asp">第一现场 | </a></li>
+    <li class="width30"><a target="_blank" href="http://www.cy580.com/">创业网 | </a></li>
+</ul>
+<div class="login">
+<h2><a title="我的华讯" target="_blank" href="http://myhx.591hx.com">我的华讯</a></h2>
+</div>
+</div>
+<div class="banner ovh">
+<div class="b_Main fl"><script type="text/javascript" src="http://www.591hx.com/js/ad/banner.js"></script></div>
+<div class="b_Sider fr"><a target="_blank" href="http://jcw.591hx.com/cfzz/index.aspx"><img width="294" height="60" alt="" src="http://finance.591hx.com/images/0000.jpg" /> </a></div>
+</div>
+<div class="navBox">
+<div id="subnav">
+<h2><a href="http://finance.591hx.com">财经频道</a></h2>
+<h3 style="margin-left: 14px; display: inline;"><a href="http://finance.591hx.com/Scroll/finance,1.shtml">滚动</a></h3>
+<ul style="width: 280px;">
+    <li><a href="http://finance.591hx.com/lista/jrzb.shtml">金融资本</a> </li>
+    <li><a href="http://finance.591hx.com/lista/hgjj.shtml">宏观经济</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gncj.shtml">国内财经</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gs.shtml">公司新闻</a> </li>
+    <li><a href="http://finance.591hx.com/lista/qyjj.shtml">区域经济</a> </li>
+    <li><a href="http://finance.591hx.com/lista/xfrd.shtml">消费生活</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gjlc.shtml">国际财经</a> </li>
+    <li><a href="http://finance.591hx.com/list/jj.shtml">时事聚焦</a> </li>
+</ul>
+<h3><a href="http://opinion.591hx.com">评论</a></h3>
+<ul style="width: 280px;">
+    <li><a href="http://finance.591hx.com/lista/cjsy.shtml">财界声音</a> </li>
+    <li><a href="http://finance.591hx.com/lista/jygl.shtml">经营管理</a> </li>
+    <li><a href="http://finance.591hx.com/lista/szpkt.shtml">商战擂台</a> </li>
+    <li><a href="http://finance.591hx.com/lista/jrsctj.shtml">市场推荐</a> </li>
+    <li><a href="http://finance.591hx.com/lista/cjyw.shtml">财经要闻</a> </li>
+    <li><a href="http://finance.591hx.com/lista/dsj.shtml">大视觉</a> </li>
+    <li><a href="http://finance.591hx.com/lista/whrh.shtml">文化生活</a> </li>
+    <li><a href="http://opinion.591hx.com/lista/mjjh.shtml">名家精华</a> </li>
+</ul>
+<h3><a href="http://finance.591hx.com/list/cj.shtml">产经</a></h3>
+<ul style="width: 180px; margin-left: 2px;">
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/fc.shtml">房产</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/qc.shtml">汽车</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/nysy.shtml">能源</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/itjd.shtml">IT</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/spyl.shtml">食品</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/lswl.shtml">物流</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div id="content">
+  <div class="txtNav"><strong>您所在位置：</strong>
+<a href="http://www.591hx.com/" target="_blank">华讯首页</a>&gt;&nbsp;<a href="http://finance.591hx.com/" target="_blank">财经频道</a>&gt;&nbsp;<a href="http://finance.591hx.com/lista/jrsctj.shtml" target="_blank">今日市场推荐</a>&gt;&nbsp;&nbsp;正文
+</div>
+  <div id="main" class="pb10 line">
+    <div class="news bc mt12">
+      <h1>揭秘"一元木马":点链接支付一元 银行卡少几万块</h1>
+      <div class="info">
+   2016年06月15日 13:44:35  新华网</div>
+          <div class="newsContainer" id="newsCon">
+<span align="center">
+<script type="text/javascript" src="http://www.591hx.com/js/nr.js"></script>
+</span>
+<p>　　近日，杭州余杭警方通过在警务大<a target='_blank' title='数据' href='http://stock.591hx.com/list/sjfx.shtml'>数据</a>领域与阿里巴巴安全部合作，侦破了一个以低价购买游戏装备为诱饵，针对游戏爱好者实施诈骗的新型网络犯罪团伙，在19个省52个地市抓获犯罪嫌疑人68名，一条围绕&ldquo;一元木马&rdquo;开展的诈骗产业链被连根拔起。</p>
+<p>　　<strong>&ldquo;一元木马&rdquo;控制电脑 转多少钱骗子说了算</strong></p>
+<p>　　4月30日下午，周末在家休息的杭州余杭人小王正在玩网络游戏《魔兽世界》时看到有人低价兜售装备、金币、代刷副本，就加了QQ网名叫&ldquo;耕地老&rdquo;的人，联系其代刷副本。对方让小王付款15元，并提供了付款账号。小王如约用支付宝付给对方15元。过了会，&ldquo;耕地老&rdquo;对小王说，钱没到账，让小王发支付记录截图给他，小王按照要求把支付记录截图发了过去。</p>
+<p>　　过了不久，有一个QQ网名叫&ldquo;烂人&rdquo;的人加小王好友。小王加了对方之后，&ldquo;烂人&rdquo;说自己是游戏客服，需要支付一元钱激活订单才能帮他代刷。说完就发了个链接过来。小王点击链接支付一元，结果账户余额显示竟然少了9900元。小王就问对方怎么回事，&ldquo;烂人&rdquo;说后台数据出错，让小王点击链接重新支付一元，把9900元退给小王。小王再次点击链接支付一元，结果账户里竟然少了49500元。小王得知上当受骗，立即报警。</p>
+<p>　　接到报警后，余杭警方立即追踪被骗钱款下落，调查发现线索指向上海浦东。5月5日上午，民警在浦东新区川沙镇某酒店内将张某等4名嫌疑人抓获。调查发现，被害人小王在15元购买代刷游戏副本的过程中，被张某等人以&ldquo;一元木马&rdquo;为手段，诱骗转账1元订单激活费，而实际上，小王电脑早已被木马程序控制，表面上看起来只是转账一元钱，而其实要转多少钱都由犯罪嫌疑人在后台操控，随意修改金额。</p>
+<p>　　经对张某等人审查发现，抓获的4人仅仅是该类网络诈骗团伙的冰山一角，嫌疑人张某加入用于诈骗的QQ群30余个，好友达8000余人，QQ群内人员均有可能涉嫌参与该类诈骗活动。</p>
+<p>　　<strong>分工明确产业化运作 &ldquo;一元木马&rdquo;诈骗形成产业链</strong></p>
+<p>　　专案组从扣押的<a target='_blank' title='银行' href='http://money.591hx.com/lista/yhlc.shtml'>银行</a>卡、电脑等物品入手，深入分析研判，结合落网犯罪嫌疑人供述，一条以&ldquo;低价售卖游戏装备&rdquo;为诱饵，&ldquo;一元木马&rdquo;诈骗黑色&ldquo;产业链&rdquo;清晰呈现：丢单手、秒单手、非法支付平台、非法制售木马者、非法出售银行黑卡者随机组合，相互勾结，分工明确。</p>
+<p>　　&mdash;&mdash;制售木马者：针对游戏玩家使用的支付方式不同，木马生成器可以生成不同的&ldquo;一元木马&rdquo;链接。嫌疑人购买木马生成器就可以生成各种木马链接，并填入预设的银行卡和收款人姓名，发送给游戏玩家。游戏玩家点击链接进行转账时，木马程序改变页面显示转账金额为1元，游戏玩家输入支付密码，实际转账金额被操作木马的犯罪分子在后台预设（被害人账户余额范围内）。据犯罪嫌疑人孔某交代，他以200至400元不等的价格，将木马出售给其他犯罪嫌疑人，获利近三万元。</p>
+<p>　　&mdash;&mdash;丢单手：在QQ群等网络交流平台发布虚假信息，引诱游戏玩家购买。当游戏玩家支付小额定金后，丢单手是不会实际发货的，等买家来咨询时，丢单手就会要求买家出示付款截图证明。其实这是丢单手要看买家的账户余额。等丢单手拿到截图后，丢单手就算是把&ldquo;单&rdquo;拿到手了。受害人小王遭遇的&ldquo;耕地老&rdquo;就是丢单手的角色。</p>
+<p>　　&mdash;&mdash;秒单手：丢单手获得游戏玩家的付款截图后，发到另一个秒单QQ群里，谁抢到单子就由谁和丢单手联系，抢到单子的即为秒单手。秒单手假冒&ldquo;客服&rdquo;身份出现，通过QQ与游戏玩家联系，发送&ldquo;一元木马&rdquo;，诱骗游戏玩家支付一元激活费。秒单手会利用木马程序在后台重新填写支付信息，游戏玩家付款的金额是&ldquo;1元&rdquo;，但实际支付的金额是秒单手利用木马程序重新填写的余额。这就是小王两次转账1元，账户损失近6万元的原因。</p>
+<p>　　&mdash;&mdash;非法支付平台：非法支付平台为提升信誉度，聚集人气，会提供银行黑卡、木马链接等各种服务。为分散<a target='_blank' title='风险' href='http://fs.591hx.com/list/gpfx.shtml'>风险</a>，秒单手会向操控非法支付平台的人索取木马链接，并把骗来的钱全部转入非法支付平台。操控非法支付平台的人一般收取8%－10%的分成，并将其余的钱转给秒单手和丢单手。</p>
+<p>　　<strong>犯罪团伙低龄化职业化 受害人多为在校学生</strong></p>
+<p>　　在初步掌握犯罪团伙的线索后，余杭公安分局迅速成立专案组，会同阿里巴巴安全专家，先后梳理各类信息数据60万余条，梳理出41条线索60多名犯罪嫌疑人，涉及全国各地1000多起案件。专案组结合该案实际条件，采取&ldquo;数次收网，整体摧毁&rdquo;的战略，在全国范围内开展收网集群战役。</p>
+<p>　　通过两次集群作战，余杭警方在全国19个省52个地市抓获犯罪嫌疑人68人，其中刑事拘留59人，取保候审9人。查获涉案银行卡近300张、电脑60余台。破获全国同类案件1500余起，涉案价值2000余万元。</p>
+<p>　　余杭警方有关负责人介绍，从抓获的68名犯罪嫌疑人来看，犯罪嫌疑人低龄化、职业化情况突出：64名是90后，占94%；多数犯罪嫌疑人以此为业，分布在全国19个省份50多个地市。如犯罪嫌疑人杨某（网名&ldquo;烂人&rdquo;），年仅16周岁，黑龙江大庆市人，担任&ldquo;秒单手&rdquo;角色，一年来作案上百起，涉案金额70万余元。</p>
+<p>　　此外，由于犯罪团伙作案目标针对的是游戏爱好者。目前已掌握的55名受害人大多是在校大、中学生。高考刚过，暑假来临，在校学生假期打游戏的时间多，警方提醒：上网游戏千万不要轻易打开商家发来的不明链接、文件、压缩包及二维码，安装病毒查杀<a target='_blank' title='软件' href='http://ggpc.591hx.com/'>软件</a>定期查杀电脑，保护账户隐私，以免上当受骗。<iframe height="280" src="http://info.591hx.com/zyrk_dy/gwjl.html?user=fenghao" frameborder="no" width="100%" marginwidth="0" scrolling="no"></iframe></p><br/>
+<div class="pagex"></div>
+<input type="hidden" id="Articletitle" name="title" value="揭秘"一元木马":点链接支付一元 银行卡少几万块">
+<input type="hidden" id="chanle" name="chanle" value="财经频道"> 
+<input type="hidden" id="user" name="user" value="fenghao"> 
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad2zuo640.js"></script>
+</div>
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad1zuo640.js"></script>
+   </div>
+ <div class="tit bc mt16">
+      <h2>与 文章关键字：<a  target='_blank' title='支付平台' href='http://www.591hx.com/keyword_c/ZhiFuPingTai36185/list_index.shtml'>支付平台</a> <a  target='_blank' title='木马程序' href='http://www.591hx.com/keyword_c/MuMaChengXu138434/list_1.shtml'>木马程序</a> <a  target='_blank' title='支付宝' href='http://www.591hx.com/keyword_c/ZhiFuBao28786/list_index.shtml'>支付宝</a> <a  target='_blank' title='犯罪嫌疑人' href='http://www.591hx.com/keyword_c/FanZuiXianYiRen47660/list_index.shtml'>犯罪嫌疑人</a>  相关的新闻</h2>
+      </div>
+
+<div class="xg_c"><div class="xg"><div class="titx"><strong><a target='_blank' title='支付平台' href='http://www.591hx.com/keyword_c/ZhiFuPingTai36185/list_index.shtml'>支付平台</a>相关报道</strong></div><LI><A href="http://finance.591hx.com/article/2016-06-13/0000607736s.shtml" target="_blank">支付牌照转让生意兴起 一张纸卖2.5亿-</A></LI><LI><A href="http://money.591hx.com/article/2016-05-31/0000404855s.shtml" target="_blank">支付“实名制”之际 骗子冒充支付平台发诈</A></LI><LI><A href="http://stock.591hx.com/article/2016-05-27/0000981237s.shtml" target="_blank">集成支付专家银生宝 助力大数据行业发展</A></LI><LI><A href="http://finance.591hx.com/article/2016-05-24/0000597251s.shtml" target="_blank">移动支付用户每天使用率超3成 巨头造节加</A></LI><LI><A href="http://finance.591hx.com/article/2016-05-06/0000586693s.shtml" target="_blank">微信支付这么牛，为何留不住人？</A></LI></div><div class="xg" style="float:right"><div class="titx"><strong><a target='_blank' title='木马程序' href='http://www.591hx.com/keyword_c/MuMaChengXu138434/list_1.shtml'>木马程序</a>相关报道</strong></div><LI><A href="http://finance.591hx.com/article/2016-05-05/0000585332s.shtml" target="_blank">“校讯通”发诈骗短信？木马程序植入！</A></LI><LI><A href="http://stock.591hx.com/article/2015-05-24/0000885245s.shtml" target="_blank">假微信红包陷阱揭秘：遇到陌生短信和网络链</A></LI><LI><A href="http://finance.591hx.com/article/2012-10-16/0000267930s.shtml" target="_blank">程序迷编写木马横扫全国：网警惊叹这是个天</A></LI><LI><A href="http://finance.591hx.com/article/2011-05-25/0000030540s.shtml" target="_blank">Android木马又有抬头之势</A></LI><LI><A href="http://finance.591hx.com/article/2011-05-09/0000025098s.shtml" target="_blank">工程师植木马敲诈老板 索要200万美元</A></LI></div></div>    
+
+    </div>  <div id="sidebar">
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad1you300.js"></script>
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad.js"></script>
+<div class="l_coA mt6">
+<iframe marginwidth="0" marginheight="0"  src="http://info.591hx.com/zyrk/aritcle/zjhg.html" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:210px"></iframe>
+</div>
+    <div class="l_coA mt6">
+      <div class="tit3">
+        <h2>焦点新闻</h2>
+        <a href=""></a> </div>
+      <ul class="listD">
+         <li><strong><a href="http://money.591hx.com/hxjr/index.html" target="_blank" title="推荐">[推荐]</a></strong><a href="http://info.591hx.com/Subject/ejd_0421/index.html" target="_blank">二季度牛股免费送</a></li>
+         <li><strong><a href="http://stock.591hx.com/list/gegu.shtml" target="_blank" title="荐股">[荐股]</a></strong>
+<a href="http://stock.591hx.com/article/2014-06-18/0000808862s.shtml" target="_blank">蓝宝石热潮再升温 10大牛股解析</a>
+
+</li>
+        <li><strong><a href="http://stock.591hx.com/list/cw.shtml" target="_blank" title="传闻">[传闻]</a></strong>
+<a href="http://stock.591hx.com/article/2016-06-14/0000986590s.shtml" target="_blank">6月14日私募内部绝杀传闻揭秘</a>
+
+</li>
+        <li><strong><a href="http://finance.591hx.com/lista/cjyw.shtml" target="_blank" title="要闻">[要闻]</a></strong>
+<a href="http://finance.591hx.com/article/2016-06-06/0000604071s.shtml" target="_blank">非农“黑天鹅”后 A股风险偏好全面</a>
+
+</li>
+        <li><strong><a href="http://finance.591hx.com/lista/xfrd.shtml" target="_blank" title="消费">[消费]</a></strong>
+<a href="http://finance.591hx.com/article/2016-06-14/0000608722s.shtml" target="_blank">女子寄5000元手机 快递弄丢只赔50元</a>
+
+</li>
+        <li><strong><a href="http://finance.591hx.com/lista/fc.shtml" target="_blank" title="房产">[房产]</a></strong>
+<a href="http://finance.591hx.com/article/2016-06-15/0000609084s.shtml" target="_blank">男子买别墅正装修 怎料门外突然塌方</a>
+
+</li>
+        <li><strong><a href="http://finance.591hx.com/lista/qc.shtml" target="_blank" title="汽车">[汽车]</a></strong>
+<a href="http://finance.591hx.com/article/2016-06-15/0000609146s.shtml" target="_blank">巨星偏爱哪一款 NBA总决赛场下见分</a>
+
+</li>
+        <li><strong><a href="http://money.591hx.com/lista/lcyw.shtml" target="_blank" title="理财">[理财]</a></strong>
+<a href="http://money.591hx.com/article/2016-06-12/0000406824s.shtml" target="_blank">为什么你一年挣10万 别人一年挣100</a>
+
+</li>
+        <li><strong><a href="http://money.591hx.com/fund.shtml" target="_blank" title="基金">[基金]</a></strong>
+<a href="http://fund.591hx.com/article/2016-05-31/0000103181s.shtml" target="_blank">5月31日影响市场的重要政策消息速递</a>
+
+</li>
+              </ul>
+    </div>
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad6.js"></script>
+<div class="l_coA mt6">
+<script type='text/javascript' src='http://www.591hx.com/js/dyxc.js'></script>
+</div>
+          <div class="l_coA mt6">
+      <h2 class="tit4 fb">网友点击排行</h2>
+      <div id="tab3">
+ <h2 style="margin-left:14px; display:inline" class="current3">财经</h2>
+
+        <div class="tabBox3" style="display:block">
+          <iframe marginwidth="0" marginheight="0"  src="http://finance.591hx.com/list/cjphb.shtml" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:230px"></iframe>
+        </div>
+ <h2>股票</h2>
+        <div class="tabBox3">
+         <iframe marginwidth="0" marginheight="0"  src="http://stock.591hx.com/list/gplist.shtml" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:230px"></iframe>
+        </div>
+ <h2>理财</h2>
+            <div class="tabBox3" >
+          <iframe marginwidth="0" marginheight="0"  src="http://money.591hx.com/list/lcphb.shtml" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:230px"></iframe>
+        </div>
+                      <h2>学院</h2>
+        <div class="tabBox3">
+          <iframe marginwidth="0" marginheight="0"  src="http://fs.591hx.com/list/xyphb.shtml" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:230px"></iframe>
+        </div>
+
+      </div>
+    </div>
+    <div class="l_coA mt6">
+      <h2 class="tit4 fb">图片新闻</h2>
+      <ul class="picListB ovh pb10">
+       
+
+<li><a href="http://finance.591hx.com/article/2016-06-14/0000608330s.shtml" target="_blank"><img src="http://finance.591hx.com/images/2016-06-14/2016061475059-9705.JPG" width="120" height="90" title="钟欣潼艳照门照片" />钟欣潼艳照门照片</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607028s.shtml" target="_blank"><img src="http://stock.591hx.com/images/2016-06-12/2016061285501-6489.JPG" width="120" height="90" title="被下药遭屈辱的女星" />被下药遭屈辱的女星</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604187s.shtml" target="_blank"><img src="http://finance.591hx.com/images/2016-06-06/20160606105616-3452.JPG" width="120" height="90" title="古代皇帝性趣私生活" />古代皇帝性趣私生活</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604012s.shtml" target="_blank"><img src="http://finance.591hx.com/images/2016-06-06/2016060682006-3514.JPG" width="120" height="90" title="太监怎么进行性生活" />太监怎么进行性生活</a>
+</li>
+
+
+
+      </ul>
+    </div>
+    <div class="l_coA mt6">
+      <h2 class="tit4 fb">特别推荐</h2>
+      <ul class="picListB ovh pb10">
+    
+
+<li><a href="http://finance.591hx.com/article/2016-06-13/0000607901s.shtml" target="_blank"><img src="http://stock.591hx.com/images/2016-06-13/2016061323644-8837.JPG" width="120" height="90" title="盘点女星走光瞬间 超尴尬！女星上下失守一览无遗 私处隐现（组图）" />盘点女星走光瞬间 超</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-13/0000607641s.shtml" target="_blank"><img src="http://stock.591hx.com/images/2016-06-13/2016061384357-1139.JPG" width="120" height="90" title="传说中的彝族摸奶节 彝族摸奶节真的可以随便摸奶吗？揭云南摸奶节真相" />传说中的彝族摸奶节</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607017s.shtml" target="_blank"><img src="http://stock.591hx.com/images/2016-06-12/2016061284645-3333.JPG" width="120" height="90" title="毕福剑被人整和赵本山有关系？俩人究竟有何恩怨 真相揭秘（图）" />毕福剑被人整和赵本</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604229s.shtml" target="_blank"><img src="http://www.591hx.com/images/2016-06-06/2016060610956-5001.JPG" width="120" height="90" title="全球30大桃色吉尼斯纪录 少儿不宜！日本250对年轻男女集体做爱（组图）" />全球30大桃色吉尼斯</a>
+</li>
+
+
+
+   </ul>
+    </div>
+
+    <div class="l_coA mt6"><script type="text/javascript" src="http://www.591hx.com/js/ad/ad3.js"></script></div>
+
+
+
+  </div>
+</div>
+<script type="text/javascript">
+function doZoom(size){ var oNews=document.getElementById("newsCon"); oNews.style.fontSize=size;}
+function getByClass(oParent, sClass){
+	var aEle=oParent;var aResult=[];
+	for(var i=0;i<aEle.length;i++){if(aEle[i].className==sClass)aResult.push(aEle[i]);}return aResult;}
+
+function createTab(v){
+	var oTit=document.getElementById(v.id).getElementsByTagName("h2");
+	var oBox=document.getElementById(v.id).getElementsByTagName('div');
+	var thisA=getByClass(oBox, v.setCss);
+	for(var i=0;i<oTit.length;i++){oTit[i]._index=i;oTit[i].onmousedown=function (){for(i=0;i<oTit.length;i++){oTit[i].className='';thisA[i].style.display='none';}
+
+this.className=v.cName;thisA[this._index].style.display='block';};}}
+</script>
+<script type="text/javascript" src="http://money.591hx.com/javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){$("#tab h2").mouseover(function(){$(this).addClass("current").siblings().removeClass("current");var idx=$("#tab h2").index($(this));$("#tab .tabBox").eq(idx).show().siblings(".tabBox").hide()});$("#tab3 h2").mouseover(function(){$(this).addClass("current3").siblings().removeClass("current3");var idx=$("#tab3 h2").index($(this));$("#tab3 .tabBox3").eq(idx).show().siblings(".tabBox3").hide()})});
+</script>
+<div id="index_r100">
+<div id="index_r100_c"><a target="_blank" href="http://www.591hx.com/aboutus/cn/index.html">关于华讯</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/rczp.html">诚聘英才</a>   |   <a target="_blank" href="http://www.591hx.com/navigate/map.shtml">网站导航</a>  |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/cpfw.html">产品中心</a>   |   <a target="_blank" href="http://club.591hx.com/stock_study/index.asp">股民心理研究</a>   |   <a target="_blank" href="http://www.591hx.com/rdhz/index.html">上市公司研究</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/zyhb.html">合作伙伴</a>   |   <a target="_blank" href="http://special.591hx.com/hxhz/index.htm">广告合作</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/flsm.html">法律声明</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/lxwm.html">联系我们</a></div>
+</div>
+<div id="copyright0">华讯财经所载文章、数据仅供参考，使用前请务必仔细阅读<a style="COLOR: red" target="_blank" href="http://stock.591hx.com/mzsm.html">免责声明</a>，风险自负。<br />
+提示：华讯财经不作任何“加入会员、承诺收益、利润分成”以及其他非法操作方式进行非法的理财服务。<a style="COLOR: red" target="_blank" onfocus="undefined" href="http://stock.591hx.com/zyts.html">《<u>详情点击</u>》</a> <br />
+<a target="_blank" href="http://www.591hx.com/aboutus/cn/img/www.jpg">证券投资咨询业务资格证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/7007.jpg">中国证券业协会会员</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/gd.jpg">视听节目制作许可证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/xk.jpg">增值电信业务经营许可证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/6996.jpg">上市公司价值研究</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/6995.jpg">中国股民心理研究基地</a> <br />
+<a target="_blank" href="http://jg.sac.net.cn/pages/publicity/investment-list.html">大连华讯投资股份有限公司北京分公司</a> 辽ICP备14017339号-3 辽公网安备 21020202000009号<br />
+客户服务电话：4000987966  客户投诉电话：010-53821559 E-mail：market@591hx.com   <a target="_blank" href="http://net.china.com.cn/index.htm"><img style="HEIGHT: 88px; FLOAT: right; MARGIN-TOP: -82px; WIDTH: 97px; MARGIN-RIGHT: 6px" border="0" alt="" src="http://stock.591hx.com/img/police.gif" /></a></div>
+<script language="javascript" src="http://www.591hx.com/js/tongji.js"></script>
+</body>
+</html>
+<script src="http://www.591hx.com/js/floatbox.js"></script>

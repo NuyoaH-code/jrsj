@@ -1,0 +1,298 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>没有网络怎么办？小编教你离线看微信资源_财经频道_华讯财经</title>
+<meta name="keywords" content="微信,离线,小编,Tencent,rarr" />
+<meta name="description" content="如今越来越多的童鞋已经习惯了在微信上浏览精彩内容，但是一旦断网可就尴尬了。那么，有没有什么办法可以将微信上的内容给缓存下来并在无网的条件浏览呢？微信默认情况下只有连接网络才能查看微信的内容。不过微信里很多内容如网页、小视频等这些在线资源，其实都有具体网址。默认情况下手机微信可以离线其中内容，对于较大" />
+<link rel="stylesheet" type="text/css" href="http://money.591hx.com/style/cotent.css"/>
+<script language="JavaScript">
+document.domain = "591hx.com"; //指定 document 所属的域
+</script> 
+</head>
+<body>
+<div id="header1">
+<ul class="entry1">
+    <li class="width50"><a target="_blank" href="http://www.591hx.com/"><img width="16" alt="" src="http://finance.591hx.com/favicon.ico" /> 华讯财经首页 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/">股票 | </a></li>
+    <li class="width20"><a target="_blank" href="http://finance.591hx.com/">财经 | </a></li>
+    <li class="width20"><a target="_blank" href="http://money.591hx.com/">理财 | </a></li>
+    <li class="width20"><a target="_blank" href="http://fs.591hx.com/">学院 | </a></li>
+    <li class="width20"><a target="_blank" href="http://quote.591hx.com/">行情 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/dapan.shtml">大盘 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/gegu.shtml">个股 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/zl.shtml">主力 | </a></li>
+    <li class="width20"><a target="_blank" href="http://fund.591hx.com/">基金 | </a></li>
+    <li class="width30"><a target="_blank" href="http://club.591hx.com/live/online_1.asp">第一现场 | </a></li>
+    <li class="width30"><a target="_blank" href="http://www.cy580.com/">创业网 | </a></li>
+</ul>
+<div class="login">
+<h2><a title="我的华讯" target="_blank" href="http://myhx.591hx.com">我的华讯</a></h2>
+</div>
+</div>
+<div class="banner ovh">
+<div class="b_Main fl"><script type="text/javascript" src="http://www.591hx.com/js/ad/banner.js"></script></div>
+<div class="b_Sider fr"><a target="_blank" href="http://jcw.591hx.com/cfzz/index.aspx"><img width="294" height="60" alt="" src="http://finance.591hx.com/images/0000.jpg" /> </a></div>
+</div>
+<div class="navBox">
+<div id="subnav">
+<h2><a href="http://finance.591hx.com">财经频道</a></h2>
+<h3 style="margin-left: 14px; display: inline;"><a href="http://finance.591hx.com/Scroll/finance,1.shtml">滚动</a></h3>
+<ul style="width: 280px;">
+    <li><a href="http://finance.591hx.com/lista/jrzb.shtml">金融资本</a> </li>
+    <li><a href="http://finance.591hx.com/lista/hgjj.shtml">宏观经济</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gncj.shtml">国内财经</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gs.shtml">公司新闻</a> </li>
+    <li><a href="http://finance.591hx.com/lista/qyjj.shtml">区域经济</a> </li>
+    <li><a href="http://finance.591hx.com/lista/xfrd.shtml">消费生活</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gjlc.shtml">国际财经</a> </li>
+    <li><a href="http://finance.591hx.com/list/jj.shtml">时事聚焦</a> </li>
+</ul>
+<h3><a href="http://opinion.591hx.com">评论</a></h3>
+<ul style="width: 280px;">
+    <li><a href="http://finance.591hx.com/lista/cjsy.shtml">财界声音</a> </li>
+    <li><a href="http://finance.591hx.com/lista/jygl.shtml">经营管理</a> </li>
+    <li><a href="http://finance.591hx.com/lista/szpkt.shtml">商战擂台</a> </li>
+    <li><a href="http://finance.591hx.com/lista/jrsctj.shtml">市场推荐</a> </li>
+    <li><a href="http://finance.591hx.com/lista/cjyw.shtml">财经要闻</a> </li>
+    <li><a href="http://finance.591hx.com/lista/dsj.shtml">大视觉</a> </li>
+    <li><a href="http://finance.591hx.com/lista/whrh.shtml">文化生活</a> </li>
+    <li><a href="http://opinion.591hx.com/lista/mjjh.shtml">名家精华</a> </li>
+</ul>
+<h3><a href="http://finance.591hx.com/list/cj.shtml">产经</a></h3>
+<ul style="width: 180px; margin-left: 2px;">
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/fc.shtml">房产</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/qc.shtml">汽车</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/nysy.shtml">能源</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/itjd.shtml">IT</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/spyl.shtml">食品</a> </li>
+    <li style="width: 40px;"><a href="http://finance.591hx.com/lista/lswl.shtml">物流</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div id="content">
+  <div class="txtNav"><strong>您所在位置：</strong>
+<a href="http://www.591hx.com/" target="_blank">华讯首页</a>&gt;&nbsp;<a href="http://finance.591hx.com/" target="_blank">财经频道</a>&gt;&nbsp;<a href="http://finance.591hx.com/lista/jrsctj.shtml" target="_blank">今日市场推荐</a>&gt;&nbsp;&nbsp;正文
+</div>
+  <div id="main" class="pb10 line">
+    <div class="news bc mt12">
+      <h1>没有网络怎么办？小编教你离线看微信资源</h1>
+      <div class="info">
+   2016年07月07日 14:25:20  驱动之家</div>
+          <div class="newsContainer" id="newsCon">
+<span align="center">
+<script type="text/javascript" src="http://www.591hx.com/js/nr.js"></script>
+</span>
+<p>　　如今越来越多的童鞋已经习惯了在微信上浏览精彩内容，但是一旦断网可就尴尬了。那么，有没有什么办法可以将微信上的内容给缓存下来并在无网的条件浏览呢？</p>
+<p>　　微信默认情况下只有连接网络才能查看微信的内容。<strong>不过微信里很多内容如网页、小视频等这些在线资源，其实都有具体网址。默认情况下手机微信可以离线其中内容，对于较大文件则可以通过QQ浏览器获取下载地址。</strong>因此为了节省流量，我们只要在有网络的情况下离线下载这些资源即可。</p>
+<p>　　对于微信里其他朋友发送的资源，手机微信可以自动进行下载。因此对于文件体积较小的资源，直接在手机微信里下载即可。如很多微信公众号里的网页内容，现在可以借助QQ浏览器的网页保存插件进行离线保存。</p>
+<p>　　在手机微信中打开相应的页面后，点击右上方的菜单按钮选择&ldquo;使用浏览器打开&rdquo;（iPhone用户选择&ldquo;在Safari中打开&rdquo;），如果有多个浏览器，选择&ldquo;QQ浏览器&rdquo;并设置其为默认浏览器。这样手机上的QQ浏览器可以打开相应的页面。</p>
+<p align="center"><img alt="" src="http://stock.591hx.com/images/hnimg/20160707/6/5967975146341279030.jpg" /></p>
+<p class="pictext" align="center">　　<strong>▲</strong>在浏览器中打开微信页面</p>
+<p>　　在打开的页面空白处长按选择&ldquo;保存离线网页&rdquo;，这样即可将当前的页面离线保存下来。对于微信里其他在线页面资源可以使用同样的方法进行离线保存。</p>
+<p align="center"><img alt="" src="http://stock.591hx.com/images/hnimg/20160707/84/1195278027278064376.jpg" /></p>
+<p class="pictext" align="center">　　<strong>▲</strong>离线保存页面</p>
+<p>　　这样以后需要离线查看这些网页的内容时，启动QQ浏览器点击&ldquo;菜单&rarr;文件下载&rarr;我的文件&rarr;离线网页&rdquo;，然后依次点击其中离线下载好的资源进行浏览即可。</p>
+<p align="center"><img alt="" src="http://stock.591hx.com/images/hnimg/20160707/27/12423518111905146955.jpg" /></p>
+<p class="pictext" align="center">　　<strong>▲</strong>查看离线资源</p>
+<p>　　当然如果不想在手机上直接浏览，还可以在微信打开后点击&ldquo;菜单&rarr;分享到手机QQ&rdquo;，打开QQ后即可将网址&ldquo;发送到电脑&rdquo;，这样在公司电脑上启动QQ后即可打开其中地址，在电脑上也可以直接进行浏览。</p>
+<p align="center"><img alt="" src="http://stock.591hx.com/images/hnimg/20160707/49/12285039799537428857.jpg" /></p>
+<p class="pictext" align="center">　　<strong>▲</strong>在电脑上进行浏览</p>
+<p>　　对于微信里的语音对话，只要在有网络的情况下接收，以后离线也可以直接收听。对于微信里的短视频资源，则可以在有网络的情况下打开（注意要打开全部播放一遍），这样视频默认保存在&ldquo;sdcard0/ Tencent/MicroMsg/最长后缀名称文件夹/Video&rdquo;下，可以去下载&ldquo;腾讯文件管理器&rdquo;，打开后定位到&ldquo;视频&rarr;微信小视频&rdquo;，这里即可看到离线缓存的小视频。</p>
+<p align="center"><img alt="" src="http://stock.591hx.com/images/hnimg/20160707/10/14565177024994028646.jpg" /></p>
+<p class="pictext" align="center">　　<strong>▲</strong>查看微信离线保存的小视频</p>
+<p>　　除此之外，微信里还有一类视频资源是内嵌在网页里的，对于这类资源，在微信中打开网页后同上选择&ldquo;在浏览器中打开&rdquo;，使用QQ浏览器打开后点击视频播放页面，在播放页面会出现下载图标，点击后即可开始缓存页面的视频。</p>
+<p align="center"><img alt="" src="http://stock.591hx.com/images/hnimg/20160707/8/13726296187380915004.jpg" /></p>
+<p class="pictext" align="center">　　<strong>▲</strong>在QQ浏览器下载视频</p>
+<p>　　以后需要离线下载这些视频时，同上打开QQ浏览器点击&ldquo;菜单&rarr;文件下载&rarr;我的文件&rarr;视频&rdquo;，在此即可看到离线缓存的视频文件了。<iframe height="220" src="http://info.591hx.com/zyrk_dy/gwjl.html?user=fenghao" frameborder="no" width="100%" marginwidth="0" scrolling="no"></iframe></p><br/>
+<div class="pagex"></div>
+<input type="hidden" id="Articletitle" name="title" value="没有网络怎么办？小编教你离线看微信资源">
+<input type="hidden" id="chanle" name="chanle" value="财经频道"> 
+<input type="hidden" id="user" name="user" value="fenghao"> 
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad2zuo640.js"></script>
+</div>
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad1zuo640.js"></script>
+   </div>
+ <div class="tit bc mt16">
+      <h2>与 文章关键字：<a  target='_blank' title='微信' href='http://www.591hx.com/keyword_c/WeiXin235846/list_index.shtml'>微信</a> <a  target='_blank' title='离线' href='http://www.591hx.com/keyword_c/LiXian148773/list_1.shtml'>离线</a> <a  target='_blank' title='小编' href='http://www.591hx.com/keyword_c/XiaoBian27685/list_index.shtml'>小编</a> <a  target='_blank' title='Tencent' href='http://www.591hx.com/keyword_c/Tencent102954/list_index.shtml'>Tencent</a> <a  target='_blank' title='rarr' href='http://www.591hx.com/keyword_c/rarr44394/list_index.shtml'>rarr</a>  相关的新闻</h2>
+      </div>
+
+<div class="xg_c"><div class="xg"><div class="titx"><strong><a target='_blank' title='微信' href='http://www.591hx.com/keyword_c/WeiXin235846/list_index.shtml'>微信</a>相关报道</strong></div><LI><A href="http://fxb.591hx.com/article/2016-07-06/0000046844s.shtml" target="_blank">天津17岁少女遭优步司机骚扰:聊初夜性暗</A></LI><LI><A href="http://stock.591hx.com/article/2016-07-06/0000996543s.shtml" target="_blank">天津17岁少女遭优步司机骚扰 聊初夜险遭</A></LI><LI><A href="http://finance.591hx.com/article/2016-07-06/0000622231s.shtml" target="_blank">天津17岁少女遭优步司机性骚扰 大尺度聊</A></LI><LI><A href="http://fxb.591hx.com/article/2016-07-06/0000046816s.shtml" target="_blank">天津17岁少女打优步遭性骚扰 司机聊女生</A></LI><LI><A href="http://finance.591hx.com/article/2016-07-05/0000621615s.shtml" target="_blank">澳商家将微信视为打开中国市场的利器</A></LI></div><div class="xg" style="float:right"><div class="titx"><strong><a target='_blank' title='离线' href='http://www.591hx.com/keyword_c/LiXian148773/list_1.shtml'>离线</a>相关报道</strong></div><LI><A href="http://money.591hx.com/article/2011-10-11/0000074774s.shtml" target="_blank">湖南中南大学发生火灾 现场火势凶猛浓烟滚</A></LI><LI><A href="http://money.591hx.com/article/2011-04-11/0000015987s.shtml" target="_blank">信用卡五大骗术大揭底 当心瞒天过海离线交</A></LI><LI><A href="http://finance.591hx.com/article/2011-03-16/0000010500s.shtml" target="_blank">日本遭遇地震袭击 QQ24小时永不离线</A></LI><LI><A href="http://finance.591hx.com/article/2010-12-24/0000103993s.shtml" target="_blank">【skype无法登录】为啥我的skype</A></LI><LI><A href="http://money.591hx.com/article/2010-07-29/0000096933s.shtml" target="_blank">信用卡套现最终还是要还的</A></LI></div></div>    
+
+    </div>  <div id="sidebar">
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad1you300.js"></script>
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad.js"></script>
+<div class="l_coA mt6">
+<iframe marginwidth="0" marginheight="0"  src="http://info.591hx.com/zyrk/aritcle/zjhg.html" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:210px"></iframe>
+</div>
+    <div class="l_coA mt6">
+      <div class="tit3">
+        <h2>焦点新闻</h2>
+        <a href=""></a> </div>
+      <ul class="listD">
+         <li><strong><a href="http://money.591hx.com/hxjr/index.html" target="_blank" title="推荐">[推荐]</a></strong><a href="http://info.591hx.com/Subject/ejd_0421/index.html" target="_blank">二季度牛股免费送</a></li>
+         <li><strong><a href="http://stock.591hx.com/list/gegu.shtml" target="_blank" title="荐股">[荐股]</a></strong>
+<a href="http://stock.591hx.com/article/2014-06-18/0000808862s.shtml" target="_blank">蓝宝石热潮再升温 10大牛股解析</a>
+
+</li>
+        <li><strong><a href="http://stock.591hx.com/list/cw.shtml" target="_blank" title="传闻">[传闻]</a></strong>
+<a href="http://stock.591hx.com/article/2016-07-07/0000997022s.shtml" target="_blank">7月07日私募内部绝杀传闻揭秘</a>
+
+</li>
+        <li><strong><a href="http://finance.591hx.com/lista/cjyw.shtml" target="_blank" title="要闻">[要闻]</a></strong>
+<a href="http://finance.591hx.com/article/2016-07-07/0000622949s.shtml" target="_blank">刘晓博：万科之争 最危险时刻仍未过</a>
+
+</li>
+        <li><strong><a href="http://finance.591hx.com/lista/xfrd.shtml" target="_blank" title="消费">[消费]</a></strong>
+<a href="http://finance.591hx.com/article/2016-07-07/0000622833s.shtml" target="_blank">难忍“打假人敲诈” 超市老板拦街砸</a>
+
+</li>
+        <li><strong><a href="http://finance.591hx.com/lista/fc.shtml" target="_blank" title="房产">[房产]</a></strong>
+<a href="http://finance.591hx.com/article/2016-07-07/0000622825s.shtml" target="_blank">今年前五个月，哪些城市房价上涨最</a>
+
+</li>
+        <li><strong><a href="http://finance.591hx.com/lista/qc.shtml" target="_blank" title="汽车">[汽车]</a></strong>
+<a href="http://finance.591hx.com/article/2016-07-07/0000622784s.shtml" target="_blank">女司机开车吃棒冰被罚款 安全驾驶最</a>
+
+</li>
+        <li><strong><a href="http://money.591hx.com/lista/lcyw.shtml" target="_blank" title="理财">[理财]</a></strong>
+<a href="http://money.591hx.com/article/2016-07-03/0000410936s.shtml" target="_blank">睡觉时枕边有这6种东西 让你短命10</a>
+
+</li>
+        <li><strong><a href="http://money.591hx.com/fund.shtml" target="_blank" title="基金">[基金]</a></strong>
+<a href="http://fund.591hx.com/article/2016-06-27/0000105250s.shtml" target="_blank">6月27日影响市场的重要政策消息速递</a>
+
+</li>
+              </ul>
+    </div>
+<script type="text/javascript" src="http://www.591hx.com/js/ad/ad6.js"></script>
+<div class="l_coA mt6">
+<script type='text/javascript' src='http://www.591hx.com/js/dyxc.js'></script>
+</div>
+          <div class="l_coA mt6">
+      <h2 class="tit4 fb">网友点击排行</h2>
+      <div id="tab3">
+ <h2 style="margin-left:14px; display:inline" class="current3">财经</h2>
+
+        <div class="tabBox3" style="display:block">
+          <iframe marginwidth="0" marginheight="0"  src="http://finance.591hx.com/list/cjphb.shtml" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:230px"></iframe>
+        </div>
+ <h2>股票</h2>
+        <div class="tabBox3">
+         <iframe marginwidth="0" marginheight="0"  src="http://stock.591hx.com/list/gplist.shtml" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:230px"></iframe>
+        </div>
+ <h2>理财</h2>
+            <div class="tabBox3" >
+          <iframe marginwidth="0" marginheight="0"  src="http://money.591hx.com/list/lcphb.shtml" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:230px"></iframe>
+        </div>
+                      <h2>学院</h2>
+        <div class="tabBox3">
+          <iframe marginwidth="0" marginheight="0"  src="http://fs.591hx.com/list/xyphb.shtml" frameborder="no"  scrolling="no"  style="overflow:hidden; width:100%; height:230px"></iframe>
+        </div>
+
+      </div>
+    </div>
+    <div class="l_coA mt6">
+      <h2 class="tit4 fb">图片新闻</h2>
+      <ul class="picListB ovh pb10">
+       
+
+<li><a href="http://finance.591hx.com/article/2016-07-07/0000622877s.shtml" target="_blank"><img src="http://stock.591hx.com/images/2016-07-07/2016070793947-8814.JPG" width="120" height="90" title="空姐飞机厕所卖淫" />空姐飞机厕所卖淫</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-07-06/0000622022s.shtml" target="_blank"><img src="http://stock.591hx.com/images/2016-07-06/2016070675244-6792.JPG" width="120" height="90" title="老毕赵本山倒台黑手" />老毕赵本山倒台黑手</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-07-04/0000620650s.shtml" target="_blank"><img src="http://finance.591hx.com/images/2016-07-04/2016070480856-3172.JPG" width="120" height="90" title="军妓供士兵们泄欲" />军妓供士兵们泄欲</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-07-01/0000619473s.shtml" target="_blank"><img src="http://finance.591hx.com/images/2016-07-01/2016070183406-2343.JPG" width="120" height="90" title="女司机边开车边自摸" />女司机边开车边自摸</a>
+</li>
+
+
+
+      </ul>
+    </div>
+    <div class="l_coA mt6">
+      <h2 class="tit4 fb">特别推荐</h2>
+      <ul class="picListB ovh pb10">
+    
+
+<li><a href="http://finance.591hx.com/article/2016-07-06/0000622357s.shtml" target="_blank"><img src="http://stock.591hx.com/images/2016-07-06/2016070621944-8495.JPG" width="120" height="90" title="曝光裸照的十大明星 刘嘉玲惨遭轮奸私处全露裸照流出 朱茵曾拍三级片赤身肉搏" />曝光裸照的十大明星</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-07-05/0000621393s.shtml" target="_blank"><img src="http://finance.591hx.com/images/2016-07-05/2016070584102-1995.JPG" width="120" height="90" title="台湾富少李宗瑞60图片 曾被曝侵犯继母梁婖婷 台湾富少李宗瑞迷奸女星完整版" />台湾富少李宗瑞60图</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-07-01/0000619516s.shtml" target="_blank"><img src="http://finance.591hx.com/images/2016-07-01/2016070193350-5748.JPG" width="120" height="90" title="少妇发裸照色诱儿子 脱光衣服全裸激情疯狂乱伦不雅视频曝光十分不雅（图）" />少妇发裸照色诱儿子</a>
+</li>
+
+
+
+
+
+<li><a href="http://finance.591hx.com/article/2016-07-01/0000619442s.shtml" target="_blank"><img src="http://finance.591hx.com/images/2016-07-01/2016070180810-2329.JPG" width="120" height="90" title="奇葩女子与狗发生关系 女子和狗高潮迭起表情销魂十分淫乱 大尺度惊人" />奇葩女子与狗发生关</a>
+</li>
+
+
+
+   </ul>
+    </div>
+
+    <div class="l_coA mt6"><script type="text/javascript" src="http://www.591hx.com/js/ad/ad3.js"></script></div>
+
+
+
+  </div>
+</div>
+<script type="text/javascript">
+function doZoom(size){ var oNews=document.getElementById("newsCon"); oNews.style.fontSize=size;}
+function getByClass(oParent, sClass){
+	var aEle=oParent;var aResult=[];
+	for(var i=0;i<aEle.length;i++){if(aEle[i].className==sClass)aResult.push(aEle[i]);}return aResult;}
+
+function createTab(v){
+	var oTit=document.getElementById(v.id).getElementsByTagName("h2");
+	var oBox=document.getElementById(v.id).getElementsByTagName('div');
+	var thisA=getByClass(oBox, v.setCss);
+	for(var i=0;i<oTit.length;i++){oTit[i]._index=i;oTit[i].onmousedown=function (){for(i=0;i<oTit.length;i++){oTit[i].className='';thisA[i].style.display='none';}
+
+this.className=v.cName;thisA[this._index].style.display='block';};}}
+</script>
+<script type="text/javascript" src="http://money.591hx.com/javascript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){$("#tab h2").mouseover(function(){$(this).addClass("current").siblings().removeClass("current");var idx=$("#tab h2").index($(this));$("#tab .tabBox").eq(idx).show().siblings(".tabBox").hide()});$("#tab3 h2").mouseover(function(){$(this).addClass("current3").siblings().removeClass("current3");var idx=$("#tab3 h2").index($(this));$("#tab3 .tabBox3").eq(idx).show().siblings(".tabBox3").hide()})});
+</script>
+<div id="index_r100">
+<div id="index_r100_c"><a target="_blank" href="http://www.591hx.com/aboutus/cn/index.html">关于华讯</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/rczp.html">诚聘英才</a>   |   <a target="_blank" href="http://www.591hx.com/navigate/map.shtml">网站导航</a>  |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/cpfw.html">产品中心</a>   |   <a target="_blank" href="http://club.591hx.com/stock_study/index.asp">股民心理研究</a>   |   <a target="_blank" href="http://www.591hx.com/rdhz/index.html">上市公司研究</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/zyhb.html">合作伙伴</a>   |   <a target="_blank" href="http://special.591hx.com/hxhz/index.htm">广告合作</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/flsm.html">法律声明</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/lxwm.html">联系我们</a></div>
+</div>
+<div id="copyright0">华讯财经所载文章、数据仅供参考，使用前请务必仔细阅读<a style="COLOR: red" target="_blank" href="http://stock.591hx.com/mzsm.html">免责声明</a>，风险自负。<br />
+提示：华讯财经不作任何“加入会员、承诺收益、利润分成”以及其他非法操作方式进行非法的理财服务。<a style="COLOR: red" target="_blank" onfocus="undefined" href="http://stock.591hx.com/zyts.html">《<u>详情点击</u>》</a> <br />
+<a target="_blank" href="http://www.591hx.com/aboutus/cn/img/www.jpg">证券投资咨询业务资格证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/7007.jpg">中国证券业协会会员</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/gd.jpg">视听节目制作许可证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/xk.jpg">增值电信业务经营许可证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/6996.jpg">上市公司价值研究</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/6995.jpg">中国股民心理研究基地</a> <br />
+<a target="_blank" href="http://jg.sac.net.cn/pages/publicity/investment-list.html">大连华讯投资股份有限公司北京分公司</a> 辽ICP备14017339号-3 辽公网安备 21020202000009号<br />
+客户服务电话：4000987966  客户投诉电话：010-53821559 E-mail：market@591hx.com   <a target="_blank" href="http://net.china.com.cn/index.htm"><img style="HEIGHT: 88px; FLOAT: right; MARGIN-TOP: -82px; WIDTH: 97px; MARGIN-RIGHT: 6px" border="0" alt="" src="http://stock.591hx.com/img/police.gif" /></a></div>
+<script language="javascript" src="http://www.591hx.com/js/tongji.js"></script>
+</body>
+</html>
+<script src="http://www.591hx.com/js/floatbox.js"></script>

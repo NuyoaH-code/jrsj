@@ -1,0 +1,458 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="今日市场推荐_财经频道_华讯财经" />
+<meta name="description" content="今日市场推荐_财经频道_华讯财经" />
+<title>今日市场推荐_财经频道_华讯财经</title>
+<link rel="stylesheet" type="text/css" href="http://finance.591hx.com/inance_Style/list.css"/>
+</head>
+<body>
+<div id="header1">
+<ul class="entry1">
+    <li class="width50"><a target="_blank" href="http://www.591hx.com/"><img alt="" width="16" src="http://finance.591hx.com/favicon.ico" /> 华讯财经首页 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/">股票 | </a></li>
+    <li class="width20"><a target="_blank" href="http://finance.591hx.com/">财经 | </a></li>
+    <li class="width20"><a target="_blank" href="http://money.591hx.com/">理财 | </a></li>
+    <li class="width20"><a target="_blank" href="http://fs.591hx.com/">学院 | </a></li>
+    <li class="width20"><a target="_blank" href="http://quote.591hx.com/">行情 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/dapan.shtml">大盘 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/gegu.shtml">个股 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/qgqp.shtml">股评 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/cw.shtml">传闻 | </a></li>
+    <li class="width20"><a target="_blank" href="http://stock.591hx.com/list/zl.shtml">主力 | </a></li>
+    <li class="width20"><a target="_blank" href="http://funds.591hx.com/">基金 | </a></li>
+    <li class="width20"><a target="_blank" href="http://finance.591hx.com/lista/szpkt.shtml">商战 | </a></li>
+    <li class="width20"><a target="_blank" href="http://finance.591hx.com/lista/fc.shtml">房产 | </a></li>
+    <li class="width30"><a target="_blank" href="http://fxb.591hx.com/">风向标 | </a></li>
+    <li class="width30"><a target="_blank" href="http://stock.591hx.com/list/gsh.shtml">股社会 | </a></li>
+    <li class="width30"><a target="_blank" href="http://club.591hx.com/live/online_1.asp">第一现场 | </a></li>
+</ul>
+<div class="login">
+<h2><a title="我的华讯" target="_blank" href="http://myhx.591hx.com">我的华讯</a></h2>
+</div>
+</div>
+<script type="text/javascript"> 
+function che(){ 
+	var userName=document.getElementById("name").value;if(userName==""){alert("用户名不能为空"); return false; }
+	var userPwd=document.getElementById("password").value;if(userPwd==""){alert("密码不能为空"); return false;}}
+</script>
+<div class="banner ovh">
+<div class="b_Main fl"><script type="text/javascript" src="http://www.591hx.com/js/ad/banner.js"></script></div>
+<div class="b_Sider fr"><a target="_blank" href="http://App.591hx.com/gowhere.asp?linktype=578&orgin=77"><img alt="hao123" width="294" height="60" src="http://finance.591hx.com/images/2012-04-12/2012041232103-1307.JPG" /> </a></div>
+</div>
+<div class="navBox">
+<div id="subnav">
+<h2><a href="http://finance.591hx.com">财经频道</a></h2>
+<h3 style="DISPLAY: inline; MARGIN-LEFT: 14px"><a href="http://finance.591hx.com/Scroll/finance,1.shtml">滚动</a></h3>
+<ul style="WIDTH: 280px">
+    <li><a href="http://finance.591hx.com/lista/jrzb.shtml">金融资本</a> </li>
+    <li><a href="http://finance.591hx.com/lista/hgjj.shtml">宏观经济</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gncj.shtml">国内财经</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gs.shtml">公司新闻</a> </li>
+    <li><a href="http://finance.591hx.com/lista/qyjj.shtml">区域经济</a> </li>
+    <li><a href="http://finance.591hx.com/lista/xfrd.shtml">消费生活</a> </li>
+    <li><a href="http://finance.591hx.com/lista/gjlc.shtml">国际财经</a> </li>
+    <li><a href="http://finance.591hx.com/list/jj.shtml">时事聚焦</a> </li>
+</ul>
+<h3><a href="http://opinion.591hx.com">评论</a></h3>
+<ul style="WIDTH: 280px">
+    <li><a href="http://finance.591hx.com/lista/cjsy.shtml">财界声音</a> </li>
+    <li><a href="http://finance.591hx.com/lista/jygl.shtml">经营管理</a> </li>
+    <li><a href="http://finance.591hx.com/lista/szpkt.shtml">商战擂台</a> </li>
+    <li><a href="http://finance.591hx.com/lista/jrsctj.shtml">市场推荐</a> </li>
+    <li><a href="http://finance.591hx.com/lista/cjyw.shtml">财经要闻</a> </li>
+    <li><a href="http://finance.591hx.com/lista/dsj.shtml">大视觉</a> </li>
+    <li><a href="http://finance.591hx.com/lista/whrh.shtml">文化生活</a> </li>
+    <li><a href="http://opinion.591hx.com/lista/mjjh.shtml">名家精华</a> </li>
+</ul>
+<h3><a href="http://finance.591hx.com/list/cj.shtml">产经</a></h3>
+<ul style="WIDTH: 180px; MARGIN-LEFT: 2px">
+    <li style="WIDTH: 40px"><a href="http://finance.591hx.com/lista/fc.shtml">房产</a> </li>
+    <li style="WIDTH: 40px"><a href="http://finance.591hx.com/lista/qc.shtml">汽车</a> </li>
+    <li style="WIDTH: 40px"><a href="http://finance.591hx.com/lista/nysy.shtml">能源</a> </li>
+    <li style="WIDTH: 40px"><a href="http://finance.591hx.com/lista/itjd.shtml">IT</a> </li>
+    <li style="WIDTH: 40px"><a href="http://finance.591hx.com/lista/spyl.shtml">食品</a> </li>
+    <li style="WIDTH: 40px"><a href="http://finance.591hx.com/lista/lswl.shtml">物流</a> </li>
+</ul>
+</div>
+</div>
+<div id="content">
+  <div id="main" class="pb10">
+    <div class="txtNav"><strong>您所在位置：</strong>
+ <a href="http://www.591hx.com/" target="_blank">华讯首页</a>&gt;&nbsp;<a href="http://finance.591hx.com/" target="_blank">财经频道</a>&gt;&nbsp;<h1>今日市场推荐&nbsp;</h1>
+<span class="red">列表</span></div>    <div class="line" style="border-top:none">
+      <ul class="newList bc">
+       <li><a href="http://finance.591hx.com/article/2016-06-08/0000605609s.shtml" target="_blank">2016胡润慈善榜：马化腾捐139亿成首善</a>2016-06-08 11:07</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-08/0000605590s.shtml" target="_blank">《魔兽》创影史零点场票房冠军 观影热潮开启</a>2016-06-08 10:48</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-08/0000605534s.shtml" target="_blank">赌输百万造假币：伪造假币上千万全国发售</a>2016-06-08 09:41</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-08/0000605495s.shtml" target="_blank">打假斗士夏草：乐视财报大剖析 或巨亏20亿元</a>2016-06-08 08:49</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-08/0000605494s.shtml" target="_blank">唐骏：国内中产阶级唯一的理财就是炒股</a>2016-06-08 08:47</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-08/0000605477s.shtml" target="_blank">天上掉馅饼？市民股票账户多出10亿 高血压都犯了</a>2016-06-08 08:22</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-08/0000605446s.shtml" target="_blank">今日操盘必读：6月8日股民内参</a>2016-06-08 07:53</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000605213s.shtml" target="_blank">一文看懂中国式社保究竟是怎么回事</a>2016-06-07 21:19</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000605106s.shtml" target="_blank">换工作离职了 五险一金怎么办？</a>2016-06-07 16:52</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000605099s.shtml" target="_blank">魅族：高考613分免费送手机 江苏网友神回复</a>2016-06-07 16:33</li>
+
+    <li class="kong" style=" border:none;"></li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000605024s.shtml" target="_blank">5元10元小额假币出现!这3招助你辨真伪</a>2016-06-07 15:15</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000604876s.shtml" target="_blank">盗文网站月入15万 揭秘网络文学的秒盗经济链</a>2016-06-07 11:31</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000604873s.shtml" target="_blank">马云称很希望蚂蚁金服在香港上市</a>2016-06-07 11:21</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000604855s.shtml" target="_blank">马云落榜李彦宏状元 看商界大佬们的高考路</a>2016-06-07 11:04</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000604827s.shtml" target="_blank">为什么用户不再是滴滴神话的主角？</a>2016-06-07 10:30</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000604773s.shtml" target="_blank">高考最牛钉子户：49岁男子第20次参加高考</a>2016-06-07 09:19</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000604732s.shtml" target="_blank">驱使房企争当“地王”的力量来自哪儿？</a>2016-06-07 08:50</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000604724s.shtml" target="_blank">6月7日财经大事早知道 受益股</a>2016-06-07 08:35</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-07/0000604691s.shtml" target="_blank">2016高考 史上最严高考 940万考生走进高考考场</a>2016-06-07 07:56</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604479s.shtml" target="_blank">业内人士曝美女直播刷单内幕：原来这么赚钱！</a>2016-06-06 20:30</li>
+
+    <li class="kong" style=" border:none;"></li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604438s.shtml" target="_blank">职业女保镖 保镖公司最高获百万服务费</a>2016-06-06 18:54</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604418s.shtml" target="_blank">明日股市三大猜想及应对策略</a>2016-06-06 18:03</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604385s.shtml" target="_blank">上班族除了靠工资还有什么途径致富</a>2016-06-06 16:23</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604352s.shtml" target="_blank">企业哪些"污点"殃及职工贷款</a>2016-06-06 15:39</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604245s.shtml" target="_blank">外媒震惊:中国现数百"淘宝村" 村民家家有网店</a>2016-06-06 13:43</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604230s.shtml" target="_blank">现代传播邵忠否认与名媛王凯丽偷情被捉奸</a>2016-06-06 13:11</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604188s.shtml" target="_blank">霍金微博祝福高考考生：请勇往直前地追逐梦想</a>2016-06-06 11:25</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604179s.shtml" target="_blank">王思聪未上榜 他们才是世界上真正的富二代</a>2016-06-06 11:10</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604165s.shtml" target="_blank">茅台要买AC米兰？董事长：根本没想过</a>2016-06-06 10:52</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604161s.shtml" target="_blank">中国核建今日登陆A股 资本市场“集齐”核电全产业链</a>2016-06-06 10:42</li>
+
+    <li class="kong" style=" border:none;"></li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604089s.shtml" target="_blank">高盛“彻底”看空人民币前 悄悄干了一件事</a>2016-06-06 09:43</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604046s.shtml" target="_blank">周一展望：重点布局十大板块优质股</a>2016-06-06 08:45</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604015s.shtml" target="_blank">题材深度挖掘 三先锋即将暴力反弹</a>2016-06-06 08:24</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-06/0000604011s.shtml" target="_blank">柯洁年内将战"阿尔法狗" 人工智能望掀热潮</a>2016-06-06 08:17</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-05/0000603706s.shtml" target="_blank">莆田系四大家族上海资产:除了医院 还涉足金融</a>2016-06-05 10:22</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-05/0000603705s.shtml" target="_blank">上海兴起"高考保姆" 陪读陪聊月薪高达两万</a>2016-06-05 10:21</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-05/0000603684s.shtml" target="_blank">全国电竞公开赛再添关注度 电竞迎布局良机</a>2016-06-05 09:27</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-05/0000603683s.shtml" target="_blank">柯洁对决"阿尔法狗"年内实现 关注人工智能概念股</a>2016-06-05 09:26</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-05/0000603682s.shtml" target="_blank">北漂要哭了！京城租房月均价4503元/套</a>2016-06-05 09:25</li>
+
+<li><a href="http://finance.591hx.com/article/2016-06-05/0000603678s.shtml" target="_blank">郭树清告诫：投资者不要靠借债投资</a>2016-06-05 09:20</li>
+
+    <li class="kong" style=" border:none;"></li>
+
+
+      </ul>
+           <div class="page">
+<a href="http://finance.591hx.com/lista/jrsctj.shtml">首页</a>&nbsp;<<<a href="http://finance.591hx.com/lista/jrsctj.shtml">上一页</a><a href="http://finance.591hx.com/lista/jrsctj_463.shtml">下一页</a>&nbsp;>>&nbsp;<a href="http://finance.591hx.com/lista/jrsctj_1.shtml">尾页</a>&nbsp;&nbsp;&nbsp;&nbsp;总页数 465
+ </div>
+    </div>
+  </div>
+  <div id="sidebar">
+<div class="news">
+<h2>今日推荐</h2>
+<h3><strong><a href="http://stock.591hx.com" target="_blank">【股票】</a></strong>
+<a href="http://stock.591hx.com/article/2015-04-27/0000878445s.shtml" target="_blank">一类股只吃肉不喝汤</a>
+</h3>
+<dl>
+<dt><a href="http://stock.591hx.com/list/dapan.shtml">[大盘]</a></dt>
+<dd>
+<a href="http://stock.591hx.com/article/2015-04-27/0000878445s.shtml" target="_blank">[一类股只吃肉不喝汤]</a>
+<a href="http://stock.591hx.com/article/2015-04-27/0000878002s.shtml" target="_blank">[巨震走势走or留？]</a>
+</dd>
+</dl>
+<dl>
+<dt><a href="http://stock.591hx.com/list/gegu.shtml">[个股]</a></dt>
+<dd><a href="http://stock.591hx.com/article/2015-04-27/0000878347s.shtml" target="_blank">[19股大牛起底彪悍]</a>
+<a href="http://stock.591hx.com/article/2015-04-27/0000878100s.shtml" target="_blank">[今日17只潜力大牛]</a>
+</dd>
+<dt><a href="http://stock.591hx.com/list/bk.shtml">[板块]</a></dt>
+<dd><a href="http://stock.591hx.com/article/2015-04-28/0000878540s.shtml" target="_blank">[苹果第二季业绩靓丽]</a>
+<a href="http://stock.591hx.com/article/2015-04-27/0000878035s.shtml" target="_blank">[国家队最新动向揭密]</a>
+</dd>
+<dt><a href="http://stock.591hx.com/list/zl.shtml">[主力]</a></dt>
+<dd><a href="http://stock.591hx.com/article/2015-04-27/0000878375s.shtml" target="_blank">[敢死队大肆抢筹12股]</a>
+<a href="http://stock.591hx.com/article/2015-04-22/0000877064s.shtml" target="_blank">[敢死队大肆抢筹6股]</a>
+</dd>
+</dl>
+<h3><strong><a href="http://finance.591hx.com/" target="_blank">【财经】</a></strong><a href="http://finance.591hx.com/article/2015-04-24/0000456666s.shtml" target="_blank">银行服务降低收费</a>
+</h3>
+<ul>
+<li><a href="http://finance.591hx.com/article/2015-04-28/0000457344s.shtml" target="_blank">[地方启动全方位刺激]</a>
+<a href="http://finance.591hx.com/article/2015-04-27/0000457076s.shtml" target="_blank">[养老金并轨改革]</a></li>
+<li><a href="http://finance.591hx.com/article/2015-04-27/0000457072s.shtml" target="_blank">[注册制]</a>
+<a href="http://finance.591hx.com/article/2015-04-27/0000457069s.shtml" target="_blank">[一个月两次出京考察]</a></li>
+</ul>
+<h3><strong><a href="http://money.591hx.com" target="_blank">【理财】</a></strong><a href="http://money.591hx.com/article/2015-04-24/0000348792s.shtml" target="_blank">银联垄断将不再</a>
+</h3>
+<ul>
+<li><a href="http://money.591hx.com/article/2015-04-27/0000349110s.shtml" target="_blank">[多少钱才能维持一个家]</a>
+<a href="http://money.591hx.com/article/2015-04-27/0000349097s.shtml" target="_blank">[五大“股市综合征”]</a></li>
+<li><a href="http://money.591hx.com/article/2015-04-27/0000349084s.shtml" target="_blank">[卖房炒股还是卖股买房]</a>
+<a href="http://money.591hx.com/article/2015-04-27/0000349083s.shtml" target="_blank">[新老股民的十大区别]</a></li>
+</ul>
+</div>
+
+    <div  class="tit line">
+      <h2><a href="">新闻排行榜</a></h2>
+    </div>
+    <div id="tab" class="line">
+      <h2 class="current" style="margin-left:24px">24小时最热</h2>
+      <div class="tabMain" style="display:block">
+        <ul id="top24">
+        
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607180s.shtml" target="_blank" title="">《魔兽世界》国内票房将破10亿元 北美市场惨</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607179s.shtml" target="_blank" title="">少女新婚之夜未通过“处女测试”惨遭退婚</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607178s.shtml" target="_blank" title="">BBC记者铁锤猛砸中国玻璃大桥 它是否经受得</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607177s.shtml" target="_blank" title="">事后发现不是男友 女孩睡梦中遭男友室友脱光</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607171s.shtml" target="_blank" title="">美使馆车肇事逃逸离开 交警称对方或有外交豁</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607165s.shtml" target="_blank" title="">信和财富：将合规落到实处</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607164s.shtml" target="_blank" title="">信和财富：积极宣扬合规文化</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607163s.shtml" target="_blank" title="">民贷天下以“低利率、低成本”挺入全国十强</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607162s.shtml" target="_blank" title="">映盛中国 | 荣获虎啸奖【综合类】机动车类及</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607160s.shtml" target="_blank" title="">金窝理财对比陆金所 浅谈P2P新贵的崛起</a></li>
+
+
+       </ul>
+      </div>
+      <h2>一周最热</h2>
+      <div class="tabMain">
+        <ul id="top1">
+      
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607179s.shtml" target="_blank">少女新婚之夜未通过“处女测试”惨遭退</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607177s.shtml" target="_blank">事后发现不是男友 女孩睡梦中遭男友室友</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607165s.shtml" target="_blank">信和财富：将合规落到实处</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607164s.shtml" target="_blank">信和财富：积极宣扬合规文化</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607160s.shtml" target="_blank">金窝理财对比陆金所 浅谈P2P新贵的崛起</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607135s.shtml" target="_blank">汇付连任网络支付应用工作委员会副主任</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607134s.shtml" target="_blank">移动端成消费金融竞争关键汇付天下账管</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607125s.shtml" target="_blank">187cm吴亦凡坐着也比郭敬明高 求郭敬明</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607124s.shtml" target="_blank">TFBOYS王源中考 王俊凯、易烊千玺送祝福</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607123s.shtml" target="_blank">2016年欧洲杯赛程表直播地址 2016欧洲杯</a></li>
+
+
+     </ul>
+      </div>
+    </div>
+    <div  class="tit line">
+      <h2><a href="http://finance.591hx.com/lista/cjsy.shtml">观点声音</a></h2>
+    </div>
+    <div class="hy line">
+    <dl class="NewsPic">
+   
+     </dl>
+      <ul class="NewsList">
+     
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607100s.shtml" target="_blank">海通姜超：英国退欧预警 短期安全至上</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607055s.shtml" target="_blank">水皮：外资进入也不意味着A股就见底</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607054s.shtml" target="_blank">刘新宇：上半年散户亏损的三大根源</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607052s.shtml" target="_blank">渣打集团总裁：现在不是“卖空”中国的</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607027s.shtml" target="_blank">贺宛男：从一汽耍赖看央企整体上市</a></li>
+
+     </ul>    </div>
+    <div  class="tit line">
+      <h2><a href="">商战PK台</a></h2>
+    </div>
+    <div id="pk" class="line">
+      <div class="pk_Name" style="float:left">
+        
+<a href="http://finance.591hx.com/article/2016-06-07/0000604819s.shtml" target="_blank"><img alt="IP收入仅占10% 阅文集团力拓文学产" src="http://finance.591hx.com/images/2016-06-07/20160607101924-8822.JPG" style="width:118px;height:74px"/></a>
+
+
+      </div>
+      <div class="pk_Name" style="float:right">
+        <dl>
+         
+<a href="http://finance.591hx.com/article/2016-06-07/0000604816s.shtml" target="_blank"><img alt="谁将掌控PSA 东风集团还是标致家族" src="http://finance.591hx.com/images/2016-06-07/20160607101715-6768.JPG" style="width:118px;height:74px"/></a>
+
+
+        </dl>
+      </div>
+      <ul>
+       
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607109s.shtml" target="_blank">深圳地铁董事长:推进"地铁+万科"战略合作</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607053s.shtml" target="_blank">美的竞购德国机器人制造商 德政府参与反对</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000606983s.shtml" target="_blank">迪士尼回呛中国首富王健林：言论太搞笑</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-11/0000606847s.shtml" target="_blank">被违背的不可撤销承诺：一汽需要为暴跌买单</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-08/0000605548s.shtml" target="_blank">Twitter明年或出售 谷歌FB苹果最有可能竞购</a></li>
+
+
+      </ul>
+    </div>
+   <div  class="tit line">
+      <h2><a href="">财经图库</a></h2>
+    </div>
+    <div class="pic line">
+      <ul>
+     
+ <li><a href="http://finance.591hx.com/article/2016-06-07/0000604819s.shtml" target="_blank"><img alt="IP收入仅占10% 阅文集团力拓文学产" src="http://finance.591hx.com/images/2016-06-07/20160607101924-8822.JPG"width="118"height="88"/>IP收入仅占10% 阅文集</a></li>
+
+
+ <li><a href="http://finance.591hx.com/article/2016-06-07/0000604816s.shtml" target="_blank"><img alt="谁将掌控PSA 东风集团还是标致家族" src="http://finance.591hx.com/images/2016-06-07/20160607101715-6768.JPG"width="118"height="88"/>谁将掌控PSA 东风集团</a></li>
+
+
+ <li><a href="http://finance.591hx.com/article/2016-06-07/0000604809s.shtml" target="_blank"><img alt="酒仙网与衡水老白干 打造互联网定制" src="http://finance.591hx.com/images/2016-06-07/20160607100725-6029.JPG"width="118"height="88"/>酒仙网与衡水老白干 打</a></li>
+
+
+ <li><a href="http://finance.591hx.com/article/2016-06-06/0000604013s.shtml" target="_blank"><img alt="美国财长称中国产能过剩扭曲市场" src="http://finance.591hx.com/images/2016-06-06/2016060682058-9366.JPG"width="118"height="88"/>美国财长称中国产能过</a></li>
+
+
+      </ul>
+    </div>
+    <div  class="tit line">
+      <h2><a href="">热度排行</a></h2>
+    </div>
+    <div class="top line">
+      <ul id="top">
+     
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607179s.shtml" target="_blank">少女新婚之夜未通过“处女测试”惨遭退</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607177s.shtml" target="_blank">事后发现不是男友 女孩睡梦中遭男友室友</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607165s.shtml" target="_blank">信和财富：将合规落到实处</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607164s.shtml" target="_blank">信和财富：积极宣扬合规文化</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607160s.shtml" target="_blank">金窝理财对比陆金所 浅谈P2P新贵的崛起</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607135s.shtml" target="_blank">汇付连任网络支付应用工作委员会副主任</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607134s.shtml" target="_blank">移动端成消费金融竞争关键汇付天下账管</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607125s.shtml" target="_blank">187cm吴亦凡坐着也比郭敬明高 求郭敬明</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607124s.shtml" target="_blank">TFBOYS王源中考 王俊凯、易烊千玺送祝福</a></li>
+
+
+<li><a href="http://finance.591hx.com/article/2016-06-12/0000607123s.shtml" target="_blank">2016年欧洲杯赛程表直播地址 2016欧洲杯</a></li>
+
+
+      </ul>
+    </div>
+<script type="text/javascript" src="http://www.591hx.com/js/lb.js"></script>
+  </div>
+<script type="text/javascript" src="http://www.591hx.com/js/bottomjs.js"></script>
+</div>
+<script type="text/javascript">
+function getByClass(oParent, sClass){
+	var aEle=oParent;var aResult=[];
+	for(var i=0;i<aEle.length;i++){if(aEle[i].className==sClass)aResult.push(aEle[i]);}return aResult;}
+
+function createTab(v){
+	var oTit=document.getElementById(v.id).getElementsByTagName("h2");
+	var oBox=document.getElementById(v.id).getElementsByTagName('div');
+	var thisA=getByClass(oBox, v.setCss);
+	for(var i=0;i<oTit.length;i++){oTit[i]._index=i;oTit[i][v.ev]=function (){for(i=0;i<oTit.length;i++)
+	{oTit[i].className='';thisA[i].style.display='none';}this.className=v.cName;thisA[this._index].style.display='block';};}}
+
+function top(id){
+	var oTop=document.getElementById(id).getElementsByTagName("li");
+	for(var i=0; i<oTop.length; i++){oTop[i].className="top"+(i+1);}}
+	
+window.onload=function (){
+	//ev:鼠标事件,id:查找的ID,setCss:显示\隐藏css类名,cName：选中状态
+	createTab({ev:"onmousemove",id:"tab",setCss:"tabMain",cName:"current"});
+	top("top");top("top24");top("top1");
+};
+</script>
+<div id="index_r100">
+<div id="index_r100_c"><a target="_blank" href="http://www.591hx.com/aboutus/cn/index.html">关于华讯</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/rczp.html">诚聘英才</a>   |   <a target="_blank" href="http://www.591hx.com/navigate/map.shtml">网站导航</a>  |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/cpfw.html">产品中心</a>   |   <a target="_blank" href="http://club.591hx.com/stock_study/index.asp">股民心理研究</a>   |   <a target="_blank" href="http://www.591hx.com/rdhz/index.html">上市公司研究</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/zyhb.html">合作伙伴</a>   |   <a target="_blank" href="http://special.591hx.com/hxhz/index.htm">广告合作</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/flsm.html">法律声明</a>   |   <a target="_blank" href="http://www.591hx.com/aboutus/cn/lxwm.html">联系我们</a></div>
+</div>
+<div id="copyright0">华讯财经所载文章、数据仅供参考，使用前请务必仔细阅读<a style="COLOR: red" target="_blank" href="http://stock.591hx.com/mzsm.html">免责声明</a>，风险自负。<br />
+提示：华讯财经不作任何“加入会员、承诺收益、利润分成”以及其他非法操作方式进行非法的理财服务。<a style="COLOR: red" target="_blank" onfocus="undefined" href="http://stock.591hx.com/zyts.html">《<u>详情点击</u>》</a> <br />
+<a target="_blank" href="http://www.591hx.com/aboutus/cn/img/www.jpg">证券投资咨询业务资格证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/7007.jpg">中国证券业协会会员</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/gd.jpg">视听节目制作许可证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/xk.jpg">增值电信业务经营许可证</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/6996.jpg">上市公司价值研究</a>  <a target="_blank" href="http://www.591hx.com/aboutus/cn/img/6995.jpg">中国股民心理研究基地</a> <br />
+<a target="_blank" href="http://jg.sac.net.cn/pages/publicity/investment-list.html">北京市网讯财通科技有限公司</a> 辽ICP备14017339号-3 辽公网安备 21020202000009号<br />
+客户服务电话：4000987966  客户投诉电话：010-53821559 E-mail：market@591hx.com   <a target="_blank" href="http://net.china.com.cn/index.htm"><img style="HEIGHT: 88px; FLOAT: right; MARGIN-TOP: -82px; WIDTH: 97px; MARGIN-RIGHT: 6px" border="0" alt="" src="http://stock.591hx.com/img/police.gif" /></a></div>
+<script language="javascript" src="http://www.591hx.com/js/tongji.js"></script>
+</body>
+</html>
